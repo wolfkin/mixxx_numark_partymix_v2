@@ -1,6 +1,19 @@
-# Numark PartyMix MIDI controller mappings for Mixxx
+# Numark PartyMix II MIDI controller mappings for Mixxx
 
-![Image of NuMark PartyMix MIDI Controller](http://rylito.com/media_rylito/content/images/original/numark_party_mix.jpg)
+This fork of the rylito's Numark PartyMix MIDI controller mappings for Mixxx is dedicated to remapping the few differences in version 2 of the hardware.
+
+Don't expect this to be of quality until I sort out remapping to make up for lack of scratch buttons
+
+Things that are different:
+   - address for the browse button press
+   - lack of scratch keys
+
+Things that are the same
+  - play/pause, cue and sync
+  - level, trebble, bass
+  - load buttons
+  - browse scroll
+
 
 Note: this README is adapted from the [original announcement of this mapping on the Mixxx Community Forums](https://www.mixxx.org/forums/viewtopic.php?f=7&t=9232&start=10#p38408)
 
