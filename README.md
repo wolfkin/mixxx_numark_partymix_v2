@@ -6,7 +6,8 @@ Don't expect this to be of quality until I sort out remapping to make up for lac
 
 Things that are different:
    - address for the browse button press
-   - lack of scratch keys
+   - lack of scratch button
+   - 4th mode switch for effects
 
 Things that are the same
   - play/pause, cue and sync
