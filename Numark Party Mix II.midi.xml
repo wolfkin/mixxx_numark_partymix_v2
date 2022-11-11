@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MixxxMIDIPreset schemaVersion="1" mixxxVersion="1.11.0+"> <!-- Schema version number to help compatibility, should the MIDI format change -->
     <info>
-        <name>Numark Party Mix</name>
+        <name>Numark Party Mix II</name>
         <author>Ryli Dunlap</author>
-        <description>Full Mappings for Numark Party Mix including selectable pad modes</description>
+        <description>Full Mappings for Numark Party Mix II including selectable pad modes</description>
         <wiki><!-- Encoded URL to Mixxx wiki page documenting this controller mapping (coming soon!) --></wiki>
-        <forums>https://www.mixxx.org/forums/viewtopic.php?f=7&amp;t=9232</forums>
+        <forums>https://mixxx.discourse.group/t/numark-party-mix-midi-mapping/16712#p38408</forums>
     </info>
-    <controller id="Numark Party Mix">
+    <controller id="Numark Party Mix II">
         <scriptfiles>
-            <file filename="Numark-Party-Mix-scripts.js" functionprefix="NumarkPartyMix" />
+            <file filename="Numark-Party-Mix-II-scripts.js" functionprefix="NumarkPartyMix" />
         </scriptfiles>
 
         <controls>
